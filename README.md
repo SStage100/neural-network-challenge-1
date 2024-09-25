@@ -1,6 +1,8 @@
 # neural-network-challenge-1
 Module 18 Challenge
+
 Project Overview
+
 Hey there! This is my Python project for predicting student loan repayment using a neural network. The idea is to use historical student loan data to help predict whether a student is likely to repay their loan. By using machine learning (specifically neural networks), we can make more informed predictions based on student data like credit ranking, income, and other factors.
 
 Since I’m still learning Python (and machine learning in general), this project was a great opportunity to get hands-on experience with building models, training them, and evaluating their performance.
